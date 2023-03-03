@@ -1,0 +1,19 @@
+.list div{
+  padding: 10px;
+  border-right: 1px solid black;
+}
+input{
+  padding-left: 15px;
+  height: 30px;
+  margin-bottom: 10px;
+}
+.list .fa-trash{
+  color: red;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.list .fa-pen{
+  color: blue;
+  margin-left: 10px;
+  cursor: pointer;
+}
